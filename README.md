@@ -1,1 +1,1 @@
-A github with the purpose of adding interesting things.
+A GitHub with the purpose of adding interesting things.
